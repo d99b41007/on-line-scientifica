@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1392273308 source:f:\programming\open_port\scientifica indetation ver-02132014\serial_port.cpp
+	<windows.h>
+	<iostream>
+	"serial_port.h"
+
+1347624415 f:\programming\open_port\scientifica indetation ver-02132014\serial_port.h
+	<windows.h>
+
+1392278155 source:f:\programming\open_port\scientifica indetation ver-02132014\main.cpp
+	<iostream>
+	"operations.h"
+
+1392277280 f:\programming\open_port\scientifica indetation ver-02132014\commands.h
+	<string.h>
+	<windows.h>
+
+1392277280 f:\programming\open_port\scientifica indetation ver-02132014\operations.h
+	"serial_port.h"
+	"commands.h"
+
+1392278149 source:f:\programming\open_port\scientifica indetation ver-02132014\operation.cpp
+	"operations.h"
+	<iostream>
+
+1392277280 source:f:\programming\open_port\scientifica indetation ver-02132014\commands.cpp
+	<iostream>
+	"commands.h"
+	<windows.h>
+	<winbase.h>
+	<string>
+

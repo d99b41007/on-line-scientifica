@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1429601305 source:f:\programming\on line scientifica\main.cpp
+	<iostream>
+	"operations.h"
+
+1429601305 f:\programming\on line scientifica\operations.h
+	"serial_port.h"
+	"commands.h"
+
+1347624415 f:\programming\on line scientifica\serial_port.h
+	<windows.h>
+
+1426650572 f:\programming\on line scientifica\commands.h
+	<string.h>
+	<windows.h>
+
+1426649988 source:f:\programming\on line scientifica\operation.cpp
+	"operations.h"
+	<iostream>
+	<mmsystem.h>
+
+1395818701 source:f:\programming\on line scientifica\serial_port.cpp
+	<windows.h>
+	<iostream>
+	"serial_port.h"
+
+1426650496 source:f:\programming\on line scientifica\commands.cpp
+	<iostream>
+	"commands.h"
+	<windows.h>
+	<winbase.h>
+	<string>
+

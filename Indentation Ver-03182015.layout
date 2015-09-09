@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="commands.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="7575" topLine="99" />
+	</File>
+	<File name="commands.h" open="1" top="0" tabpos="5">
+		<Cursor position="1052" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="317" topLine="0" />
+	</File>
+	<File name="operation.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="2179" topLine="192" />
+	</File>
+	<File name="operations.h" open="1" top="0" tabpos="4">
+		<Cursor position="1080" topLine="0" />
+	</File>
+	<File name="serial_port.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="41" topLine="0" />
+	</File>
+	<File name="serial_port.h" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

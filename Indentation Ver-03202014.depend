@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1392280293 source:f:\programming\open_port\scientifica indetation ver-02132014\main.cpp
+	<iostream>
+	"operations.h"
+
+1392277280 f:\programming\open_port\scientifica indetation ver-02132014\operations.h
+	"serial_port.h"
+	"commands.h"
+
+1347624415 f:\programming\open_port\scientifica indetation ver-02132014\serial_port.h
+	<windows.h>
+
+1395227326 f:\programming\open_port\scientifica indetation ver-02132014\commands.h
+	<string.h>
+	<windows.h>
+
+1395227442 source:f:\programming\open_port\scientifica indetation ver-02132014\operation.cpp
+	"operations.h"
+	<iostream>
+
+1392273308 source:f:\programming\open_port\scientifica indetation ver-02132014\serial_port.cpp
+	<windows.h>
+	<iostream>
+	"serial_port.h"
+
+1395227326 source:f:\programming\open_port\scientifica indetation ver-02132014\commands.cpp
+	<iostream>
+	"commands.h"
+	<windows.h>
+	<winbase.h>
+	<string>
+
+1395818701 source:f:\programming\on line scientifica\serial_port.cpp
+	<windows.h>
+	<iostream>
+	"serial_port.h"
+
+1347624415 f:\programming\on line scientifica\serial_port.h
+	<windows.h>
+
+1395397144 source:f:\programming\on line scientifica\commands.cpp
+	<iostream>
+	"commands.h"
+	<windows.h>
+	<winbase.h>
+	<string>
+
+1395227326 f:\programming\on line scientifica\commands.h
+	<string.h>
+	<windows.h>
+
+1425026431 source:f:\programming\on line scientifica\main.cpp
+	<iostream>
+	"operations.h"
+
+1395393310 f:\programming\on line scientifica\operations.h
+	"serial_port.h"
+	"commands.h"
+
+1396346181 source:f:\programming\on line scientifica\operation.cpp
+	"operations.h"
+	<iostream>
+
