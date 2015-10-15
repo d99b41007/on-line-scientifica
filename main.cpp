@@ -14,7 +14,7 @@ int main() {
     serialport=open_commport();
    Position_Zero(serialport,patch);
 
-    Repeat_indentation_100_slow(serialport,patch,3);
+    Repeat_indentation_100_slow(serialport,patch,10);
 
    CloseHandle(serialport);
 
